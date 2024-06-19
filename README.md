@@ -180,7 +180,7 @@ After exiting the container you can also close the XLunch application from the t
 
 ### 1. Docker Installation:
 
-Install docker on your Linux machine.
+Install docker on your MAC.
 
 ---
 
