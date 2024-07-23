@@ -128,7 +128,7 @@ To run an GUI application from a docker container in windows we need a xserver o
 
 You can download the xserver from the following link. [https://sourceforge.net/projects/vcxsrv/](https://sourceforge.net/projects/vcxsrv/)
 
-After installation run the XLunch app 
+After installation run the XLaunch app 
 
 ![select multiple display and press Next](images/vcxser.png)
 
