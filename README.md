@@ -88,7 +88,14 @@ docker run --rm -v $(pwd):/host -it --name fuxlastix -e DISPLAY=$DISPLAY -v /tmp
 
 last command is the name and tag of the image that we want to run. 
 
-### 4. Closing the container
+### 4. Open Fuxlastix
+Run the following command to open the Fuxlastix GUI application. 
+
+```bash
+/app/fuxlastix-Lin/build-Fuxlastix-Desktop-Debug/Fuxlastix
+```
+
+### 5. Closing the container
 
 To close the running container use “exit” command on the running container. Otherwise next run will conflict with the previous run. 
 
@@ -170,7 +177,14 @@ docker run --rm -v %cd%:/host -it --name fuxlastix -e DISPLAY=host.docker.intern
 
 last command is the name and tag of the image that we want to run. 
 
-### 4. Closing the container
+### 4. Open Fuxlastix
+Run the following command to open the Fuxlastix GUI application. 
+
+```bash
+/app/fuxlastix-Lin/build-Fuxlastix-Desktop-Debug/Fuxlastix
+```
+
+### 5. Closing the container
 
 To close the running container use “exit” command on the running container. Otherwise next run will conflict with the previous run. 
 
@@ -247,7 +261,14 @@ docker run --rm -v $(pwd):/host -it --name fuxlastix -e DISPLAY=host.docker.inte
 
 last command is the name and tag of the image that we want to run. 
 
-### 4. Closing the container
+### 4. Open Fuxlastix
+Run the following command to open the Fuxlastix GUI application. 
+
+```bash
+/app/fuxlastix-Lin/build-Fuxlastix-Desktop-Debug/Fuxlastix
+```
+
+### 5. Closing the container
 
 To close the running container use “exit” command on the running container. Otherwise, next run will conflict with the previous run. 
 
